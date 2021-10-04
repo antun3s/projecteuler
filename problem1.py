@@ -14,3 +14,4 @@ for i in range (1000):
         
 print( 'The sum of all multiple of 3 and 5 between 1 and 100 is {}'.format(x))
 # answer is 233168
+##
